@@ -56,6 +56,10 @@ python exp_runner_finetune.py \
 ```
 
 ### Evaluation
+```shell
+evaluation/clean_mesh.py
+evaluation/eval_dtu_python.py
+```
 
 
 ## Citation
